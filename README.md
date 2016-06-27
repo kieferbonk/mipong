@@ -1,2 +1,2 @@
-# react-pong
+# mipong
 A Pong clone
